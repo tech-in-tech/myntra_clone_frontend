@@ -111,3 +111,16 @@ header {
     max-height: 5em;
     font-weight: 700;
 }
+.catagory-items{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.catagory-items2 .sale-item{
+    width: 240px;
+    height: 300px;
+}
+.sale-item{
+    width: 250px;
+}
