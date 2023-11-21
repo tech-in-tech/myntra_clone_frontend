@@ -41,10 +41,7 @@ header {
     text-transform: uppercase;
     padding: 28px 0px;
     border-bottom: 3px solid #fff;
-
-
 }
-
 .nav-bar a:hover{
     border-color: #f54e77;
 }
@@ -97,4 +94,20 @@ header {
 .item span{
     font-weight: 300;
     font-size: 24px;
+}
+/* main section */
+.bannerimg{
+    width: 100%;    
+}
+.banner-container{
+ margin: 40px 0px;
+}
+.category-heading h4{
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0px 10px 30px;
+    max-height: 5em;
+    font-weight: 700;
 }
